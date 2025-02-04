@@ -30,4 +30,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ```
 
 **Project based learning**
-- his project is created using React.js and implements the memorization concept, as well as accessing DOM elements using React hooks.
+- This project is created using React.js and implements the memorization concept, as well as accessing DOM elements using React hooks.
